@@ -148,7 +148,7 @@ requests>=2.28.0
 Pull requests are welcome. For major changes, please open an issue first.
 
 ## 👩‍💻 Author
-Jolanta - [GitHub Profile](https://github.com/YOUR_USERNAME)
+Jolanta - [GitHub Profile](https://github.com/jolanta-kowalewska)
 
 ## 📄 License
 MIT
